@@ -1,101 +1,91 @@
-# 📊 Analysing the Job Market for Business Analysis Qualifications
+# 🧾 Professional Certifications – Sophia (Thi Thu Trang) Nguyen
 
-This repository showcases a comprehensive data analytics project conducted as part of the *Advanced Business Intelligence and Analytics* course at the **University of South Australia (2024)**.  
-The study focuses on identifying key trends, skills, and salary patterns in the **Business Analyst job market** using real-world LinkedIn data.
-
----
-
-## 🎯 Project Overview
-
-**Objective:**  
-To analyse the job market for Business Analyst roles using data collected from LinkedIn (via Kaggle dataset).  
-The project identifies in-demand skills, top employers, geographic trends, and salary variations across industries and regions.
-
-**Stakeholder:** ABC Recruiters  
-**Supervisor:** Dr. Jan Stanek  
-**Group Members:**  
-Eranga Milan Nakandalage Don • Hoang Chau Nguyen • Martin Ariel Vallazza • Shylyn Garcia • Ushan Mark Piyasena • Thi Thu Trang Nguyen  
+This repository highlights my professional certifications and learning achievements related to **data analytics**, **business analysis**, and **process automation**.  
+Each certification demonstrates practical skills that strengthen my foundation in **data-driven decision-making**, **process optimisation**, and **Microsoft Power Platform**.
 
 ---
 
-## 📈 Key Objectives
-- Identify job requirements, key employers, and high-demand locations.  
-- Evaluate recruitment needs for Business Analysts across industries.  
-- Categorize and assess the importance of technical vs. soft skills.  
-- Analyse salary patterns by job type (Hybrid, Onsite, Remote).  
-- Correlate skill demand with job descriptions and specialties.
+## 🎓 Certifications
+
+### 1️⃣ **Microsoft Power Platform Fundamentals (PL-900)**
+📄 *Certificate of Completion – LinkedIn Learning (2024)*  
+- Gained hands-on understanding of **Power Apps**, **Power Automate**, **Power BI**, and **Dataverse**.  
+- Learned how to build low-code solutions, automate workflows, and visualize business data.  
+- Relevant to business process automation and digital transformation roles.  
+
+**Skills:** Power Apps • Power Automate • Dataverse • Power BI • Low-Code Development  
 
 ---
 
-## 🧠 Tools & Technologies
-- **Data Source:** [Kaggle - 1.3M LinkedIn Jobs and Skills 2024](https://www.kaggle.com/datasets/asaniczka/1-3m-linkedin-jobs-and-skills-2024)
-- **Languages:** Python, SQL  
-- **Data Tools:** Power BI, Excel  
-- **Data Cleaning & Processing:** Pandas, Regex  
-- **Visualization:** Power BI dashboards, Tableau (conceptual)
+### 2️⃣ **Learning Power Automate Desktop for Non-Developers**
+📄 *LinkedIn Learning (2024)*  
+- Learned how to create desktop automations using **RPA (Robotic Process Automation)**.  
+- Automated repetitive administrative tasks such as report generation and file management.  
+
+**Skills:** Power Automate Desktop • RPA • Workflow Automation • Process Optimisation  
 
 ---
 
-## 🗂️ Data Analysis Workflow
-1. **Data Exploration:**  
-   Imported LinkedIn job datasets and examined structure, missing values, and key variables (title, company, location, skills, salary).
+### 3️⃣ **Learning Power BI Desktop**
+📄 *LinkedIn Learning (2024)*  
+- Acquired skills in data cleaning, modelling, and visualization using **Power BI**.  
+- Built dashboards for sales, profitability, and operational performance analysis.  
 
-2. **Data Cleaning:**  
-   Filtered only *“Business Analyst”* positions.  
-   Handled missing values, removed duplicates, and standardized column formats using **Python (pandas)**.
-
-3. **Data Preparation:**  
-   Merged multiple datasets (skills, summary, salary) and transformed them for analysis.  
-   Applied normalization and keyword grouping for consistent job titles.
-
-4. **Exploratory Data Analysis (EDA):**  
-   Conducted descriptive statistics and visualized skill frequency, salary distributions, and top employers.
-
-5. **Dashboard Design:**  
-   Created interactive Power BI dashboards displaying key KPIs such as:  
-   - Top 10 skills for Business Analysts  
-   - Average salary by region and experience level  
-   - Job distribution by location and employment type
-
-6. **Insights & Reporting:**  
-   Summarized findings to support data-driven recommendations for recruiters and job seekers.
+**Skills:** Power BI • DAX • Data Modelling • Data Visualization  
 
 ---
 
-## 📊 Key Findings
-- **Most in-demand technical skills:** SQL, Power BI, Python, Excel, Tableau.  
-- **Top soft skills:** Communication, Analytical Thinking, Problem Solving.  
-- **High-demand regions:** Sydney, Melbourne, Adelaide, and Brisbane.  
-- **Remote roles** showed higher salary averages compared to onsite roles.  
-- Clear correlation between data visualization skills and higher salary ranges.
+### 4️⃣ **Managing Projects with Microsoft 365**
+📄 *LinkedIn Learning (2024)*  
+- Learned how to manage collaborative projects using **Microsoft Planner**, **Teams**, and **SharePoint**.  
+- Applied concepts of Agile project tracking and task delegation within Microsoft 365.  
+
+**Skills:** Microsoft 365 • Project Collaboration • Agile Tools • Team Communication  
 
 ---
 
-## 📂 Project Deliverables
-- Cleaned dataset (`.csv`)  
-- Python scripts for data cleaning and merging  
-- Power BI dashboard (`.pbix`)  
-- Final report: *Analysing the Job Market for Business Analysis Qualifications.pdf*  
+### 5️⃣ **Excel for Business Analysts**
+📄 *LinkedIn Learning (2024)*  
+- Strengthened analytical and reporting skills with **Excel formulas, PivotTables, and VBA**.  
+- Automated financial reports and created dynamic dashboards to support decision-making.  
+
+**Skills:** Excel • VBA • Data Analysis • Business Reporting  
 
 ---
 
-## 🧩 Personal Contribution – Thi Thu Trang Nguyen
-- Cleaned and standardized raw job data using **Python (pandas)**.  
-- Merged datasets and performed initial exploratory data analysis.  
-- Designed Power BI visuals to highlight skill demand and salary trends.  
-- Co-authored final report and summary dashboard.  
+### 6️⃣ **SQL Essential Training**
+📄 *LinkedIn Learning (2024)*  
+- Learned to write and optimize **SQL queries** for extracting, filtering, and joining datasets.  
+- Applied SQL logic for data cleaning, aggregation, and reporting tasks.  
+
+**Skills:** SQL • Data Querying • Database Management • Data Cleaning  
 
 ---
 
-## 💡 Key Skills
-Python • Power BI • SQL • Excel • Data Cleaning • Data Analysis • Data Visualization  
+## 🧠 Summary of Technical Focus
+| Domain | Tools & Skills |
+|:-------|:----------------|
+| **Business Analytics** | Power BI, Excel, SQL |
+| **Process Automation** | Power Automate, RPA, Microsoft 365 |
+| **Data Handling** | Python (pandas), Dataverse, SQL |
+| **Project Tools** | Microsoft Planner, Teams, SharePoint |
 
 ---
 
-## 🔗 Project Access
-📂 Full report and dashboard available in this repository.  
+## 💡 How These Certifications Support My Career
+Together, these certifications reflect my commitment to continuous learning and developing skills in:  
+- Designing data models and dashboards to improve financial and operational visibility.  
+- Automating workflows to enhance business efficiency.  
+- Bridging the gap between technical solutions and business needs.
+
+---
+
+## 🔗 Access Certificates
+All certificates (PDF format) are available in this repository for verification and reference.
+
+📁 [View Certifications Folder](./)  
 💻 More projects on GitHub: [github.com/Trang-vn](https://github.com/Trang-vn)
 
 ---
 
-© 2024 – University of South Australia | Advanced Business Intelligence and Analytics
+© 2024 – Sophia Nguyen | University of South Australia | Data & Business Analyst Pathway
